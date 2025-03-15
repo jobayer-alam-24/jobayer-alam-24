@@ -1,19 +1,27 @@
-👋 Hi, I’m Sheikh Jobayer Alam
-👀 I’m interested in
-I’m passionate about programming, with a focus on web development and Android, especially using C# with ASP.NET (MVC) and Java.
+Here's the updated version with the text streamlined into one line for each section:
 
-🌱 I’m currently learning
-I’m currently learning to build MVC-based projects and deepening my understanding of project-based development.
+---
 
-💞️ I’m looking to collaborate on
-I’m open to collaborating on projects related to C#, ASP.NET MVC, Java, and Android development. Feel free to reach out if you're working on similar projects!
+# 👋 Hi, I’m Sheikh Jobayer Alam
 
-📫 How to reach me
-You can connect with me on LinkedIn.
+## 👀 I’m interested in
+Programming, with a focus on web development and Android, especially using C# with ASP.NET (MVC) and Java.
 
-😄 Pronouns:
+## 🌱 I’m currently learning
+Building MVC-based projects and deepening my understanding of project-based development.
+
+## 💞️ I’m looking to collaborate on
+Projects related to C#, ASP.NET MVC, Java, and Android development.
+
+## 📫 How to reach me
+You can connect with me on [LinkedIn](https://www.linkedin.com/in/sheikh-jobayer-alam-436bab309/).
+
+## 😄 Pronouns:
 He/Him
 
-⚡ Fun fact
+## ⚡ Fun fact
 Whenever I’m about to start a new project, I feel an immense surge of energy and spirit—it’s like being recharged and ready to dive into something exciting!
 
+---
+
+This format should now look cleaner and more concise for your GitHub profile!
