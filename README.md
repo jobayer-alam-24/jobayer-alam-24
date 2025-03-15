@@ -1,7 +1,3 @@
-Here's the updated version with the text streamlined into one line for each section:
-
----
-
 # 👋 Hi, I’m Sheikh Jobayer Alam
 
 ## 👀 I’m interested in
@@ -21,7 +17,3 @@ He/Him
 
 ## ⚡ Fun fact
 Whenever I’m about to start a new project, I feel an immense surge of energy and spirit—it’s like being recharged and ready to dive into something exciting!
-
----
-
-This format should now look cleaner and more concise for your GitHub profile!
